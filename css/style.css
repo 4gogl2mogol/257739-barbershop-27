@@ -270,6 +270,33 @@ a {
 .product-info ul {
   list-style: none;
 }
+/*Прайс*/
+.slogan {
+  font-size: 48px;
+  line-height: 48px;
+}
+
+.best-products h2,
+.services-price h2,
+.about-us h2 {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.best-products-list {
+  list-style: none;
+}
+
+.price-table {
+  border-collapse: collapse;
+  border: 2px solid #000000;
+}
+
+.price-table td {
+  border: 2px solid #000000;
+}
+
+
 /*Футер*/
 .main-footer {
   color: #ffffff;
